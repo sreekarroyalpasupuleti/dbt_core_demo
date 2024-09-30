@@ -1,0 +1,11 @@
+
+# Ignore system directories
+AppData/
+Application Data/
+*.log
+*.tmp
+*.pyc
+
+# Ignore other temporary files
+*.DS_Store
+Thumbs.db
